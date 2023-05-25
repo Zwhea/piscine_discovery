@@ -1,0 +1,11 @@
+#myButton {
+	background-color: #3e9c8b; 
+	color: white;
+	font-size: 13pt;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+  }
+  #myButton:hover{
+	background-color: #3f6874;
+  }

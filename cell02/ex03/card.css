@@ -1,0 +1,62 @@
+h1{
+	font-family:monospace;
+	font-size: 30pt;
+}
+
+table{
+	border-collapse: collapse;
+	border: none;
+	width: 8cm;
+	box-shadow: rgba(0, 0, 0, 0.11) 10px 10px 5px 0px;
+}
+td {
+	height: 10%;
+	width: 10%;
+	border: none;
+}
+.profile{
+	height: 180px;
+	width: 180px;
+	border-radius: 50%;
+}
+
+.name{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 20pt;
+}
+.description{
+	color: gray;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 12pt;
+}
+.school{
+	color: black;
+	font-family: monospace;
+	font-style: bold;
+	font-size: 12pt;
+}
+.icons{
+	height: 30px;
+	width: 30px;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+.end{
+	width: 100%;
+	height: 1.5cm;
+	background-color: black;
+	color: white;
+	font-family: monospace;
+	font-style: bold;
+	font-size: 12pt;
+	margin-bottom: 0;
+	border:none;
+}
+input:hover{
+	background-color: white;
+	color:black;
+}
+input:active{
+	background-color: blue;
+	color:white;
+}
