@@ -815,7 +815,7 @@ a:hover {
 
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  color: #000000;
 }
 
 .hero-single .breadcrumb .breadcrumb-item:before {
@@ -854,11 +854,11 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #4e4e4e;
+  color: #0062ff;
 }
 
 .skill-mf .progress {
-  background-color: #cde1f8;
+  background-color: #c9c9c9;
   margin: 0.5rem 0 1.2rem 0;
   border-radius: 0;
   height: 0.7rem;
@@ -866,7 +866,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #0078ff;
+  background-color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -883,8 +883,8 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #0078ff;
-  box-shadow: 0 0 0 10px #cde1f8;
+  background-color: #000000;
+  box-shadow: 0 0 0 10px #a0a0a0;
 }
 
 .service-box .service-ico {
