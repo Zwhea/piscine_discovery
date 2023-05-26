@@ -20,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #1e1e1e;
+  color: #0062ff;
 }
 
 .link-text{
@@ -854,7 +854,7 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #0062ff;
+  color: #000000;
 }
 
 .skill-mf .progress {
@@ -866,7 +866,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #000000;
+  background-color: #0062ff;
 }
 
 /*--------------------------------------------------------------
